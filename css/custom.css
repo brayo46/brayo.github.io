@@ -1,0 +1,74 @@
+#menu {
+    float: right;
+}
+
+.container {
+    color:#fff;
+    /*background: rgb(170, 170, 170);*/
+    padding-top:0px;
+    width:900px;
+    
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+body{
+    background:#888;
+    margin:0;
+    padding:0;
+    font-size:25px;
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 400;
+    
+}
+.navbar {
+    margin-bottom: 0!important;
+    position:fixed;
+    top:0;
+    width:100%;;
+    
+}
+.star-bright {
+    height:25px;
+    width:500px;
+    border-color:#fff;
+}
+
+.star-dark {
+    height:30px;
+    width:368px;
+    border-color:#888;
+    margin:0 auto;
+
+
+}
+
+#details {
+    height:550px;
+    background: rgb(170, 170, 170);
+}
+#portfolio {
+    background: #eee;
+}
+
+
+h1{
+    color:#888;
+}
+.goodbye {
+    color:#888;
+
+}
+#contact {
+    color:white;
+}
+#footer {
+    
+    background-color:#007fff;
+    height:100px;
+    width:1000px;
+    margin:0px;
+}
